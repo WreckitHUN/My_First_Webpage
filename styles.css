@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.btn{
+    border: none;
+    background: cyan;
+    padding: 15px 5px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+
+.btn:hover{
+    background: black;
+    color: white;
+}
+
